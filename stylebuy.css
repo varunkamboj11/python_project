@@ -1,0 +1,51 @@
+body{
+	background-color:;
+}
+.imageBox{
+	
+	position:relative;
+	margin:40px auto;
+	border:2px solid #ccc;
+	width:149px;
+	height:149px;
+	
+
+}
+.big{
+	margin-top:200px;
+	margin-left:130px;
+}
+
+.imageBox h4{
+		position:absolute;
+		margin:0;
+		padding:0;
+		top:0;
+		transform:translate(-3%);
+		text-align:center;
+		width:100%;
+		font-weight:bold;
+		color:#fff;
+		text-shadow:0 2px 5px rgba(0,0,0,0.5);
+		transition:.5s;
+}
+
+
+
+
+
+.button{
+	
+	
+	padding:7px;
+	font-size:16px;
+	font-family:sans-serif;
+	border:none;
+	border-radius:5px;
+	outline:0;
+	margin-top:50px;
+	color:white;
+	width:210px;
+	background-color:#0c6996;
+
+}
